@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727711223396",
+    "project_id": "cameraandgallery-a1152",
+    "storage_bucket": "cameraandgallery-a1152.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727711223396:android:998c512866fd33fca01971",
+        "android_client_info": {
+          "package_name": "com.example.cameraandgallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727711223396-9tp4fpgh04jcnqn3anvbj9hgo7mkpkpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOuKPfdBf8xFDHnzuAqGKsWoI5Nl6SzmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727711223396-9tp4fpgh04jcnqn3anvbj9hgo7mkpkpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
